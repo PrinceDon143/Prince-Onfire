@@ -208,4 +208,4 @@ if __name__ == '__main__':
                    \u001b[32m:: : ::    :   : :   : :  :   : :: : :    :: :  : :     :   : :  
                                                                                                                                                       Author :: Prince
                                 '''
-    Prince(
+    Prince()
